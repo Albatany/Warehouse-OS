@@ -1,0 +1,35 @@
+id_resi,kode_barang,nama_barang,harga,tahun_kedaluwarsa,kondisi_fisik,nomor_rak,tanggal_masuk,jumlah
+33947,BRG-GBC42,SSD Acer Z-Series,100000,2027,Rusak,462,2025-08-22,2
+49051,BRG-RRCSL,Monitor Seagate Silent,100000,2034,Rusak,387,2025-06-26,1
+40084,BRG-CY4X2,Laptop Canon Portable,100000,2034,Baik,253,2024-10-18,6
+40363,BRG-MPEIK,Hard Disk Seagate Air,100000,2034,Baik,86,2024-03-21,14
+78795,BRG-UM25F,Processor LG Lite,100000,2027,Baik,387,2024-02-11,8
+33331,BRG-13RKC,Scanner Dell Portable,100000,2030,Rusak,250,2023-12-17,17
+28614,BRG-XOPZI,Powerbank Nvidia Gaming,100000,2026,Rusak,370,2025-07-02,1
+95790,BRG-9WLK1,SSD Canon Max,101000,2029,Baik,248,2024-12-29,5
+14581,BRG-KFJRJ,Powerbank Acer Elite,101000,2027,Rusak,86,2025-04-27,3
+97322,BRG-KOMV5,Monitor Dell Standard,101000,2032,Baik,216,2024-03-07,16
+
+id_resi,kode_barang,nama_barang,harga,tahun_kedaluwarsa,kondisi_fisik,nomor_rak,tanggal_masuk,jumlah
+37397,BRG-812V7,Keyboard Samsung Air,7938000,2025,Baik,445,2024-04-22,18
+81720,BRG-PN8GT,Webcam Seagate X-Series,7721000,2025,Baik,465,2025-09-04,8
+86139,BRG-U5OQD,VGA Card Dell Turbo,14118000,2025,Rusak,248,2025-09-09,19
+34621,BRG-R0PBQ,Kabel HDMI Apple Z-Series,2025000,2025,Rusak,338,2024-12-30,9
+60484,BRG-A04YL,Monitor HP X-Series,6282000,2025,Rusak,183,2024-04-11,2
+20086,BRG-TE4EK,Laptop WD Ultra,15604000,2025,Rusak,467,2025-03-20,16
+65157,BRG-XFPH4,Webcam Nvidia Ultra,8104000,2025,Rusak,330,2025-10-23,15
+64879,BRG-EJGNE,Router Xiaomi Air,9678000,2025,Rusak,145,2025-08-21,13
+79993,BRG-MJHFF,Printer Kingston Ultra,12316000,2025,Rusak,495,2024-10-21,6
+67378,BRG-C6W8V,Scanner Kingston Lite,612000,2025,Rusak,344,2025-05-23,15
+
+id_resi,kode_barang,nama_barang,harga,tahun_kedaluwarsa,kondisi_fisik,nomor_rak,tanggal_masuk,jumlah
+10000,BRG-13TFH,RAM Seagate Silent,10789000,2026,Rusak,142,2024-01-14,3
+10000,BRG-UPR0H,Casing PC Canon Mini,1757000,2027,Rusak,114,2024-01-18,19
+10000,BRG-FSPY4,Powerbank HP Z-Series,19241000,2026,Rusak,147,2025-08-20,17
+10003,BRG-FPAHG,Headset Sony Air,8923000,2031,Baik,443,2024-12-13,15
+10003,BRG-A4THZ,Monitor Dell Standard,15847000,2028,Baik,195,2025-04-14,10
+10005,BRG-EHOO3,Monitor HP Turbo,5785000,2032,Rusak,185,2025-07-28,16
+10005,BRG-QB9O2,Mouse Epson Standard,15603000,2034,Rusak,101,2025-03-19,18
+10005,BRG-3SYPZ,Hard Disk Sony Air,12389000,2028,Baik,306,2024-08-20,12
+10008,BRG-RFDE9,VGA Card Samsung Silent,6403000,2032,Rusak,461,2025-02-24,4
+10008,BRG-BVSS0,Printer Nvidia X-Series,8059000,2029,Rusak,476,2023-12-19,12
